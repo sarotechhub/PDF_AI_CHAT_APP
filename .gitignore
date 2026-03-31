@@ -1,0 +1,10 @@
+.env
+__pycache__
+*.pyc
+faiss_index/
+temp/
+*.pdf
+.DS_Store
+venv/
+.venv/
+.streamlit
