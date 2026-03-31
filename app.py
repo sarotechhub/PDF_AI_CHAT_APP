@@ -27,7 +27,6 @@ html, body, .stApp {
 
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
-header {visibility: hidden;}
 
 section[data-testid="stSidebar"] {
     background: #ffffff !important;
